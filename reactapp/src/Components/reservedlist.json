@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "bookissuedate":"23-09-23",
+      "bookreturndate":"24-09-23",
+      "booktypes": "Fantasy",
+      "bill":"₹983",
+      "status": "Returned"
+    },
+    {
+      "id": 2,
+      "name": "Kavin",
+      "bookissuedate":"10-09-23",
+      "bookreturndate":"24-09-23",
+      "booktypes": "Science Fiction",
+      "bill":"₹14023",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "name": "Karthi",
+      "bookissuedate":"1-02-23",
+      "bookreturndate":"4-03-23",
+      "booktypes": "Dystopian",
+      "bill":"₹12234",
+      "status": "Issued"
+    },
+    {
+      "id": 4,
+      "name": "Abhi",
+      "bookissuedate":"10-10-23",
+      "bookreturndate":"11-10-23",
+      "booktypes": "Action & Adventure",
+      "bill":"₹983",
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "name": "Midhun",
+      "bookissuedate":"01-01-23",
+      "bookreturndate":"01-09-23",
+      "booktypes": "Mystery",
+      "bill":"₹234569",
+      "status": "Issued"
+    },
+    {
+      "id": 6,
+      "name": "John",
+      "bookissuedate":"23-09-23",
+      "bookreturndate":"24-09-23",
+      "booktypes": "Horror",
+      "bill":"₹1283",
+      "status": "Pending"
+    },
+    {
+      "id": 7,
+      "name": "Doe",
+      "bookissuedate":"2-09-23",
+      "bookreturndate":"4-09-23",
+      "booktypes": "Thriller & Suspense",
+      "bill":"₹5483",
+      "status": "Returned"
+    },
+    {
+      "id": 8,
+      "name": "Hariharan",
+      "bookissuedate":"12-12-23",
+      "bookreturndate":"31-12-23",
+      "booktypes": "Historical Fiction",
+      "bill":"₹10853",
+      "status": "Returned"
+    },
+    {
+      "id": 9,
+      "name": "Mohan",
+      "bookissuedate":"3-09-23",
+      "bookreturndate":"4-09-23",
+      "booktypes": "Graphic Novel",
+      "bill":"₹1300",
+      "status": "Returned"
+    },
+    {
+      "id": 10,
+      "name": "John Doe",
+      "bookissuedate":"23-09-23",
+      "bookreturndate":"24-09-23",
+      "booktypes": "Biography",
+      "bill":"₹983",
+      "status": "Returned"
+    }
+
+  ]
+  
